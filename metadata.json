@@ -1,0 +1,6 @@
+{
+  "name": "Siri AI Assistant",
+  "description": "iPhone Siri-like voice AI assistant working offline with screen-off 'Hey Siri' wake-word activation and command execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

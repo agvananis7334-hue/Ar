@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Siri AI Assistant</string>
+    <string name="wake_word_service_title">Siri Voice Assistant</string>
+    <string name="wake_word_service_desc">Listening for \"Hey Siri\" command…</string>
+</resources>
